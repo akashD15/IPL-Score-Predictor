@@ -12,7 +12,6 @@
     "language_info": {
       "name": "python"
     },
-    "widgets": {
       "application/vnd.jupyter.widget-state+json": {
         "1313a5bc6bba4ae988cedda5796d703b": {
           "model_module": "@jupyter-widgets/controls",
@@ -1450,7 +1449,6 @@
           }
         }
       }
-    }
   },
   "cells": [
     {
